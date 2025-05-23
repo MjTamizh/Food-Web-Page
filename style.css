@@ -11,6 +11,9 @@ header{
     border: 2px solid red;
     
 }
+h2{
+    text-align: center;
+}
 ul,li,ol,a{
     text-decoration: none;
     list-style-type: none;
